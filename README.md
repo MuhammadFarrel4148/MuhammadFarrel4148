@@ -1,90 +1,81 @@
-<div align="center">
-  <img align="right" height="200" src="https://i.ibb.co/68038v5/girl-anime-style-avatar.png" alt="Profile Avatar" style="margin-left: 20px;">
+<div align="left">
   
-  <h1>Hi 👋! Welcome to My Profile :D</h1>
-  <h3>My name is Muhammad Farrel and I'm a Web Developer/DevOps Engineer, from Indonesia.</h3>
-  <br>
+  # Hi 👋! Welcome to My Profile
+  
+  ## Muhammad Farrel | Backend & Cloud Engineer
+  
+  I am a Backend and Cloud Engineer focused on developing efficient, scalable systems, leveraging cloud infrastructure (GCP) and container orchestration (Kubernetes).
+  
 </div>
 
 ---
 
 <div align="center">
-  <h2>GitHub Stats & Languages</h2>
+  
+  ## 💻 Tech Stack & Tools
+  
+  <p>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" title="JavaScript" />&nbsp;&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" title="Node.js" />&nbsp;&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="NPM" title="NPM" />&nbsp;&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="Go (Golang)" title="Go (Golang)" />&nbsp;&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="40" alt="Ruby" title="Ruby" />&nbsp;&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="Jest" title="Testing/Jest" />
+  </p>
 
+  <p>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" title="MySQL" />&nbsp;&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" title="PostgreSQL" />&nbsp;&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="Redis" title="Redis" />
+  </p>
+
+  <p>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="Google Cloud" title="Google Cloud Platform (GCP)" />&nbsp;&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" title="Docker" />&nbsp;&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="Kubernetes" title="Kubernetes" />&nbsp;&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" alt="Terraform" title="Terraform" />&nbsp;&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="40" alt="Grafana" title="Grafana" />&nbsp;&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="40" alt="Prometheus" title="Prometheus" />&nbsp;&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" title="Linux" />
+  </p>
+
+</div>
+
+---
+
+<div align="center">
+  
+  ## GitHub Statistics
+  
   <a href="https://github.com/MuhammadFarrel4148">
     <img 
-      src="https://github-readme-stats.vercel.app/api?username=MuhammadFarrel4148&show_icons=true&count_private=true&theme=react&hide_border=true&rank_icon=title" 
+      src="https://github-readme-stats.vercel.app/api?username=MuhammadFarrel4148&show_icons=true&count_private=true&theme=dark&hide_border=true&rank_icon=title" 
       alt="GitHub Stats" 
-      style="margin-bottom: 20px;"
+      style="margin-bottom: 10px;"
     />
   </a>
   
   <a href="https://github.com/MuhammadFarrel4148">
     <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadFarrel4148&layout=compact&langs_count=5&theme=react&hide_border=true" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadFarrel4148&layout=compact&langs_count=5&theme=dark&hide_border=true" 
       alt="Top Languages" 
-      style="margin-bottom: 20px;"
     />
   </a>
-
-  <br>
-
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadFarrel4148&theme=github-compact&hide_border=true&bg_color=1f222e&color=00ff00&line=00ff00" 
-    alt="GitHub Activity Graph" 
-  />
-
+  
 </div>
 
 ---
 
 <div align="center">
-  <h2>Tech Stack & Tools</h2>
+  
+  ## Let's Connect!
   
   <p>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />&nbsp;
-  </p>
-  
-  <p>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />&nbsp;&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="Go" />&nbsp;&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="Kubernetes" />&nbsp;&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />&nbsp;&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />&nbsp;&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="40" alt="Prometheus" />&nbsp;&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" alt="Terraform" />
-  </p>
-</div>
-
----
-
-<div align="center">
-  <h2>Let's Connect!</h2>
-  
-  <p>
-    <a href="https://www.youtube.com/@farrelputrapambudi" target="_blank">
-      <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" height="35"/>
-    </a>&nbsp;
-    <a href="https://www.instagram.com/farrelputrapambudi/" target="_blank">
-      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" height="35"/>
-    </a>&nbsp;
-    <a href="#" target="_blank">
-      <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch" height="35"/>
-    </a>&nbsp;
-    <a href="#" target="_blank">
-      <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" height="35"/>
-    </a>&nbsp;
     <a href="mailto:farrelputrapambudi.2020@gmail.com" target="_blank">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="35"/>
+      <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail"  />
     </a>&nbsp;
     <a href="https://www.linkedin.com/in/farrelputrapambudi/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="35"/>
+      <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn"  />
     </a>
   </p>
 </div>
